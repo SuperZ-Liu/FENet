@@ -5,7 +5,8 @@ Reproduced Implementation of Our ChinaMM 2022 oral paper: Boosting Semantic Segm
 
 
 ![avatar](./figs/image_feature_compare.png)
-An analogy between image enhancement and feature enhancemnet. First column displays the original image, the image after sharpening, and the image after structure-preserving smoothing from top to bottom. The left columns show the intermediate features and final segmentation results using different feature enhancemnet operations all with the original image (top-left corner) as input. 
+An analogy between image enhancement and feature enhancement.
+  (a) displays the original image, the image after sharpening, and the image after structure-preserving smoothing from top to bottom. (b) and (c) show the intermediate features and final segmentation results using different feature enhancement operations all with the original image (top-left corner) in (a) as input. 
 
 ![avatar](./figs/fem.jpg)
 The proposed FEM-D and FEM-S are given in left and right, respectively. 
