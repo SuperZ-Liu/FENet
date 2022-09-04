@@ -1,4 +1,5 @@
-# FENet(ChinaMM-2022-oral)
+# FENet(ChinaMM-2022-oral, recommended to J-VCIR)
+## Although we adopt a simple way to implement it, the motivation is worthy further study.
 Reproduced Implementation of Our ChinaMM 2022 oral paper: Boosting Semantic Segmentation via Feature Enhancement.
 
 **FENet achieves 80.1 mIoU and 82.0 mIoU with ResNet18 and ResNet101 as backbone respectively on Cityscape validation set!**
